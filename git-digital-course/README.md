@@ -7,3 +7,5 @@
 * Comando git restore / git restore --staged {Arquivo}
 * git push
 * git pull
+* git fetch
+*
