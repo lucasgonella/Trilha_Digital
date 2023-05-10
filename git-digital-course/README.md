@@ -8,4 +8,4 @@
 * git push
 * git pull
 * git fetch
-* git diff origin main
+* git diff origin/main
