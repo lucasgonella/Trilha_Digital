@@ -1,4 +1,3 @@
 # GIT
 
-
-## Curso Digital: Git
+## Curso Digital: Git/Versionamento
